@@ -15,6 +15,7 @@ const Register = () => {
   return (
     <Container maxWidth="lg">
       <Grid
+        backgroundColor="purple"
         container
         justifyContent="center"
         direction="row-reverse"
@@ -25,7 +26,7 @@ const Register = () => {
         }}
       >
         <Grid item xs={12}>
-          <Typography variant="h3" color="primary" align="center">
+          <Typography variant="h2" color="primary" align="center">
             STOCK APP
           </Typography>
         </Grid>
