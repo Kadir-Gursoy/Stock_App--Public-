@@ -15,7 +15,7 @@ const Register = () => {
   return (
     <Container maxWidth="lg">
       <Grid
-        backgroundColor="purple"
+        backgroundColor="light"
         container
         justifyContent="center"
         direction="row-reverse"
