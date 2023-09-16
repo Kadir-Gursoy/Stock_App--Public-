@@ -45,7 +45,7 @@ const Register = () => {
           <Typography
             variant="h4"
             align="center"
-            mb={2}
+            mb={3}
             color="secondary.light"
           >
             Register
